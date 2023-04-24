@@ -1,0 +1,23 @@
+{
+  "name": "pwa-workshop",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ProsperityGH",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProsperityGH/PWA-Workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProsperityGH/PWA-Workshop/issues"
+  },
+  "homepage": "https://github.com/ProsperityGH/PWA-Workshop#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
